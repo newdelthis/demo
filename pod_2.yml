@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: k8sdemo-deployment
+  labels:
+    app: k8sdemo
+
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: k8sdemo
+
+  template:
+    metadata:
+      labels:
+        app: k8sdemo
+
+    spec:
+      containers:
+        - name: k8sdemo
+          image: newdelthis/k8sdemo:1.0
+          ports:
+            - containerPort: 8080
