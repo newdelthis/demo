@@ -1,0 +1,49 @@
+---
+# 1. Web App Deployment (Using your custom image)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: python-webapp-deployment
+spec:
+  replicas: 1 # You can scale this up if you want multiple web pods
+  selector:
+    matchLabels:
+      app: python-webapp
+  template:
+    metadata:
+      labels:
+        app: python-webapp
+    spec:
+      containers:
+        - name: python-webapp
+          image: newdelthis/k8swebapp:1.0 # Your custom Python image
+          ports:
+            - containerPort: 5000
+          env:
+            # Tell the app how to find the database service
+            - name: DB_HOST
+              value: mysql-service
+            - name: DB_USER
+              value: root
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: mysql-secret
+                  key: root-password
+            - name: DB_NAME
+              value: inventory
+
+---
+# 2. External Service (To access the app from your browser)
+apiVersion: v1
+kind: Service
+metadata:
+  name: python-webapp-service
+spec:
+  type: NodePort
+  selector:
+    app: python-webapp
+  ports:
+    - port: 80
+      targetPort: 5000
+      nodePort: 30080 # The port you will type in your browser
