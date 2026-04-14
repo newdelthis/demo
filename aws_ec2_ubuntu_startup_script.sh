@@ -3,6 +3,12 @@
 # Update package list
 sudo apt update -y
 
+# Install ssh server on ubuntu
+sudo apt install openssh-server
+sudo systemctl start ssh -y
+sudo systemctl enable --now ssh
+sudo ufw allow ssh
+
 # Install Apache
 sudo apt install -y apache2
 
