@@ -4,7 +4,15 @@ services:
     image: nginx
     ports:
       - "8080:80"
+
   db:
     image: mysql
     environment:
       MYSQL_ROOT_PASSWORD: root123
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - "8081:80"
+    environment:
+      PMA_HOST: db
