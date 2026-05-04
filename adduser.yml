@@ -1,0 +1,11 @@
+---
+- name: Playbook for creating users
+  hosts: all
+  become: true
+
+  tasks:
+  - name: Create users
+    user:
+     name: cdac
+     home: /home/cdac
+     shell: /bin/bash

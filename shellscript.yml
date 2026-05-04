@@ -1,0 +1,8 @@
+---
+- name: Playbook for shell script
+  hosts: all
+  become: true
+  
+  tasks:
+  - name: Run shell script
+    shell: "/home/atul/cfile.sh"
