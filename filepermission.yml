@@ -1,0 +1,10 @@
+---
+- name: Change file permissions
+  hosts: all
+  
+  tasks:
+  - name: Files Permissions
+    become: true
+    file:
+     path: /home/atul/test/one
+     mode: a+w 
