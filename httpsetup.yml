@@ -1,0 +1,28 @@
+---
+- name: Setup Apache and open firewall port
+  hosts: all
+  become: true  # Use sudo privileges for all tasks
+  tasks:
+  - name: Update the apt package cache
+    apt:
+      update_cache: yes
+
+  - name: Install Apache packages
+    apt:
+      name: apache2
+      state: present
+
+  - name: Start Apache service
+    service:
+      name: apache2
+      state: started
+      enabled: true
+
+  - name: Allow HTTP traffic through the firewall
+    ufw:
+      rule: allow
+      port: 80
+      proto: tcp
+
+  - name: Reload the firewall to apply changes
+    command: ufw reload
