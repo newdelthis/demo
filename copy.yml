@@ -1,0 +1,13 @@
+---
+- name: Copy file from local to remote clients
+  hosts: all
+  
+  tasks:
+  - name: Copying file 
+    become: true
+    copy:
+     src: /home/atul/testfile.txt
+     dest: /tmp
+     owner: atul
+     group: atul
+     mode: 0644
