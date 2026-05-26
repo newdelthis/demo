@@ -1,54 +1,62 @@
 import os
-from flask import Flask, redirect, url_for, session, request, jsonify
-from flask_oauthlib.client import OAuth
+from flask import Flask, redirect, url_for, session, jsonify
+from authlib.integrations.flask_client import OAuth
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
 
 app = Flask(__name__)
+
+# Secret key for session management
 app.secret_key = os.getenv("SECRET_KEY")
+
+# OAuth setup
 oauth = OAuth(app)
 
-# Configure GitHub OAuth2
-github = oauth.remote_app(
-    'github',
-    consumer_key=os.getenv("CLIENT_ID"),
-    consumer_secret=os.getenv("CLIENT_SECRET"),
-    request_token_params={
-        'scope': 'user:email',
-    },
-    base_url='https://api.github.com/',
-    request_token_url=None,
-    access_token_method='POST',
+github = oauth.register(
+    name='github',
+    client_id=os.getenv("CLIENT_ID"),
+    client_secret=os.getenv("CLIENT_SECRET"),
     access_token_url='https://github.com/login/oauth/access_token',
-    authorize_url='https://github.com/login/oauth/authorize'
+    authorize_url='https://github.com/login/oauth/authorize',
+    api_base_url='https://api.github.com/',
+    client_kwargs={
+        'scope': 'user:email'
+    }
 )
 
 @app.route('/')
 def index():
-    return 'Welcome to the GitHub OAuth Demo! <a href="/login">Login with GitHub</a>'
+    return '''
+        Welcome to the GitHub OAuth Demo!
+        <br><br>
+        <a href="/login">Login with GitHub</a>
+    '''
 
 @app.route('/login')
 def login():
-    return github.authorize(callback=url_for('authorized', _external=True))
+    redirect_uri = url_for('authorize', _external=True)
+    return github.authorize_redirect(redirect_uri)
 
 @app.route('/callback')
-def authorized():
-    response = github.authorized_response()
-    if response is None or response.get('access_token') is None:
-        return 'Access denied: reason={} error={}'.format(
-            request.args['error_reason'],
-            request.args['error_description']
-        )
+def authorize():
+    # Get access token
+    token = github.authorize_access_token()
 
-    session['github_token'] = (response['access_token'], '')
-    user_info = github.get('user')
-    return jsonify(user_info.data)
+    # Store token in session
+    session['github_token'] = token
 
-@github.tokengetter
-def get_github_oauth_token():
-    return session.get('github_token')
+    # Fetch user info
+    response = github.get('user')
+    user_info = response.json()
+
+    return jsonify(user_info)
+
+@app.route('/logout')
+def logout():
+    session.clear()
+    return redirect('/')
 
 if __name__ == "__main__":
     app.run(debug=True)
