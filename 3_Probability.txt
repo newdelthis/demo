@@ -1,0 +1,46 @@
+Assignment 3
+============
+Question 1: Probability
+
+Using the loan_approval_dataset.csv dataset, answer the following questions:
+
+Let:
+A = Applicant is a Graduate
+B = Applicant is Self-Employed
+C = Loan is Approved
+
+Part A: Marginal (Unconditional) Probability
+============================================
+Calculate the following probabilities:
+
+1. What is the probability that a randomly selected applicant is a Graduate?
+2. What is the probability that a randomly selected applicant is Self-Employed?
+3. What is the probability that a randomly selected applicant receives Loan Approval?
+
+Part B: Joint (Unconditional) Probability
+=========================================
+Calculate the following probabilities:
+
+4. What is the probability that an applicant is a Graduate and receives loan approval?
+5. What is the probability that an applicant is Self-Employed and receives loan approval?
+6. What is the probability that an applicant is both Graduate and Self-Employed?
+
+Part C: Conditional Probability
+===============================
+Calculate the following probabilities:
+
+7. What is the probability that an applicant receives loan approval given that the applicant is a Graduate?
+8. What is the probability that an applicant receives loan approval given that the applicant is Self-Employed?
+9. What is the probability that an applicant is a Graduate given that the loan was approved?
+10. What is the probability that an applicant is Self-Employed given that the loan was approved?
+
+Part D: Interpretation
+======================
+Based on your results:
+11. Are Graduates more likely to receive loan approval than the overall applicant population? Justify using probabilities.
+12. Are Self-Employed applicants more likely or less likely to receive loan approval compared to the overall population?
+13. Which factor appears to have a stronger association with loan approval:
+Education status, or
+Self-employment status?
+
+Support your answer using the conditional probabilities calculated above.
