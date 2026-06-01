@@ -1,3 +1,5 @@
+Refer to the same repo: files (1) 3_Probability.txt and 2. loan_approval_dataset.csv
+
 Assignment 3
 ============
 Question 1: Probability
@@ -44,3 +46,22 @@ Education status, or
 Self-employment status?
 
 Support your answer using the conditional probabilities calculated above.
+
+Bayes Theorem
+=============
+Accept a new customer record (just the education status). Predict the chance that this new customer will get a loan.
+Incorporate this customer's data into the current data. Repeat it for one more customer and predict for the second customer.
+Do the probabilities change? If yes, by how much?
+
+Q.2 Normal distribution - Diabates
+
+# 1. What is the probability that a randomly selected patient has a glucose level between 100 mg/dL and 140 mg/dL?
+# 2. What percentage of patients are expected to have a glucose level greater than 180 mg/dL?
+# 3. Determine the glucose level that separates the top 10% of patients from the remaining 90%.
+# 4. What is the probability that a patient's glucose level lies within one standard deviation of the mean glucose level?
+# 5. A patient has a glucose level of 200 mg/dL. Calculate the z-score and determine the probability that a randomly selected patient has a glucose level higher than this.
+# 6. A hospital can only perform expensive follow-up tests on the highest 5% of glucose readings. What glucose level should be used as the cutoff?
+# 7. What percentage of patients are expected to have glucose levels between the 25th percentile and the 75th percentile?
+# 8. Find the glucose level corresponding to the 30th percentile and interpret its meaning in the context of the dataset.
+# 9. What is the probability that a patient's glucose level is at least 20 mg/dL above the mean glucose level?
+# 10. Identify all patients whose glucose z-scores are greater than +2 or less than -2. What proportion of the dataset do these potentially unusual observations represent?
