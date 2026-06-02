@@ -65,3 +65,22 @@ Q.2 Normal distribution - Diabates
 # 8. Find the glucose level corresponding to the 30th percentile and interpret its meaning in the context of the dataset.
 # 9. What is the probability that a patient's glucose level is at least 20 mg/dL above the mean glucose level?
 # 10. Identify all patients whose glucose z-scores are greater than +2 or less than -2. What proportion of the dataset do these potentially unusual observations represent?
+
+Q.3 Two-sample t tests - Assignment 3
+1. Titanic: Is the average age of male passengers significantly different from the average age of female passengers?
+2. Titanic: Is there a significant difference in average age between survivors and non-survivors?
+3. Diabetes: Is the mean glucose level significantly different between diabetic and non-diabetic patients?
+4. Diabetes: Is there a significant difference in average BMI between diabetic and non-diabetic patients?
+5. Tips: Do weekend customers spend more than weekday customers?
+
+Q.4 Run a paired t test on (a) https://www.kaggle.com/datasets/abdullahmalmutairi/pre-and-post-exercise-heart-rate-analysis 
+Columns: Resting Heart Rate Before and Resting Heart Rate After
+(b) Hypothermia dataset (in ou github repo) on columns t.1 and t.2
+
+Q.5 ANOVA
+1. Using ANOVA, determine whether Age differs significantly across different Passenger Classes (Pclass) in titanic dataset.
+2. For Tips data, determine whether the Tip Percentage (tip / total_bill × 100) differs significantly across different Days.	
+3. Create glucose categories (Low, Medium, High) and determine whether Skin Thickness differs significantly across these groups using ANOVA.
+4. For StudentsPerformance.csv, using ANOVA find if there is a significant difference in Maths marks depending on the level of parental education 
+
+
