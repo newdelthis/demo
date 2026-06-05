@@ -1,0 +1,6 @@
+Question 1: Predict loan approval on loan_approval_dataset.csv file (in GitHub repo).
+(a) Use Logistic Regression
+(b) Then try using Naive Bayes
+(c) Perform encoding and scaling as appropriate
+(d) Display confusion matrix and customized classification report
+(e) Compare the results and check which one has a better accuracy
