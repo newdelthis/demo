@@ -1,6 +1,67 @@
+# Assignment 4 (File in GitHub)
 Question 1: Predict loan approval on loan_approval_dataset.csv file (in GitHub repo).
 (a) Use Logistic Regression
 (b) Then try using Naive Bayes
 (c) Perform encoding and scaling as appropriate
 (d) Display confusion matrix and customized classification report
 (e) Compare the results and check which one has a better accuracy
+(f) For Logistic regression
+Show the top 10 customers most likely to get loan
+Show the bottom 10 customers least likely to get loan
+(g) Find records where predictions differ between LR nd NB and display those records - Analyze why the predictions differ
+
+Question 2: Create a dataset with 95% class 0 and 5% class 1
+Train logistic regression
+Evaluate performance
+
+
+Question 3: 
+(1) Create confusion matrix
+| Patient_ID | Actual_Result | Predicted_Result |
+| ---------- | ------------- | ---------------- |
+| P1         | Disease       | Disease          |
+| P2         | Disease       | Disease          |
+| P3         | Disease       | No Disease       |
+| P4         | Disease       | Disease          |
+| P5         | Disease       | No Disease       |
+| P6         | Disease       | Disease          |
+| P7         | No Disease    | No Disease       |
+| P8         | No Disease    | Disease          |
+| P9         | No Disease    | No Disease       |
+| P10        | No Disease    | No Disease       |
+| P11        | No Disease    | Disease          |
+| P12        | No Disease    | No Disease       |
+
+(2) Use the following data
+- What is the positive class?
+- Identify TP, TN, FP, FN.
+- Which error is more dangerous?
+
+| Passenger | Actual Status                | Scanner Result |
+| --------- | ---------------------------- | -------------- |
+| A         | Carrying prohibited item     | Alarm          |
+| B         | Not carrying prohibited item | Alarm          |
+| C         | Not carrying prohibited item | No Alarm       |
+| D         | Carrying prohibited item     | No Alarm       |
+| E         | Carrying prohibited item     | Alarm          |
+
+(3) Find accuracy without creating a confusion matrix
+| Email | Actual Spam | Predicted Spam |
+| ----- | ----------- | -------------- |
+| E1    | Yes         | Yes            |
+| E2    | No          | No             |
+| E3    | Yes         | No             |
+| E4    | No          | No             |
+| E5    | Yes         | Yes            |
+
+(4) A cancer screening system produced:
+5 False Positives
+2 False Negatives
+Which type of error is more dangerous in this application and why?
+
+(5) A bank's loan approval model has:
+15 False Positives
+3 False Negatives
+What does a False Positive mean here?
+What does a False Negative mean here?
+Which error would concern the bank more?
