@@ -1,0 +1,17 @@
+1. Time Series Analysis: Do it on ice cream sales dataset
+
+2. Apply PCA on bank customer churn prediction dataset and show explained variance - then predict using the components instead of the original columns
+
+3. Create a decision tree on same dataset
+
+4. Solve the following LPP using PuLP:
+You are the captain of a cricket team and need to allocate overs to two bowlers, 
+Bowler A and Bowler B, to maximize the number of wickets they can take.
+
+Constraints:
+Bowler A can bowl a maximum of 6 overs.
+Bowler B can bowl a maximum of 8 overs.
+Together, they can bowl a total of 10 overs.
+
+Bowler A takes an average of 0.5 wickets per over.
+Bowler B takes an average of 0.3 wickets per over.
