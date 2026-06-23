@@ -1,0 +1,223 @@
+Burpsuite with (Damn Vulnerable Web Application)
+================================================
+Step 1: Start DVWA 
+
+docker run --rm -it -p 4280:80 vulnerables/web-dvwa
+
+Open:
+http://localhost:4280
+
+Login:
+Username: admin
+Password: password
+
+
+Step 2: Configure Burp
+
+1. Start Burp Suite.
+2. Click Proxy → Open Browser.
+3. Browse DVWA using Burp Browser.
+4. Verify requests appear in Proxy → HTTP History.
+
+----------------------------------------------------
+Exercise 1 – HTTP History
+----------------------------------------------------
+1. Browse Home, Login, Instructions and SQL Injection pages.
+2. Open Proxy → HTTP History.
+3. Observe GET and POST requests.
+4. Record URL and HTTP method.
+
+
+----------------------------------------------------
+Exercise 2 – Repeater
+----------------------------------------------------
+
+1. Capture the login request.
+2. Right click → Send to Repeater.
+3. Modify:
+
+username=admin
+password=test123
+
+4. Click Send multiple times.
+5. Observe server responses.
+
+
+----------------------------------------------------
+Exercise 3 – Decoder
+----------------------------------------------------
+
+Open Decoder.
+
+Decode:
+
+YWRtaW4=
+cGFzc3dvcmQ=
+
+Expected:
+
+admin
+password
+
+
+----------------------------------------------------
+Exercise 4 – Comparer
+----------------------------------------------------
+
+1. Save a successful login response.
+2. Save a failed login response.
+3. Send both to Comparer.
+4. Identify differences in responses.
+
+
+----------------------------------------------------
+Exercise 5 – SQL Injection
+----------------------------------------------------
+
+Open:
+
+DVWA → SQL Injection
+
+Try:
+
+1
+
+Observe normal output.
+
+Now try:
+
+1' OR '1'='1
+
+Observe multiple records returned.
+
+
+----------------------------------------------------
+Exercise 6 – Reflected XSS
+----------------------------------------------------
+
+Open:
+
+DVWA → XSS (Reflected)
+
+Enter:
+
+<script>alert('XSS')</script>
+
+Submit and observe the popup.
+
+
+----------------------------------------------------
+Exercise 7 – Stored XSS
+----------------------------------------------------
+
+Open:
+
+DVWA → XSS (Stored)
+
+Enter:
+
+<script>alert('Stored XSS')</script>
+
+Submit and refresh the page.
+
+Observe that the popup appears for every visitor.
+
+
+----------------------------------------------------
+Exercise 8 – Command Injection
+----------------------------------------------------
+
+Open:
+
+DVWA → Command Injection
+
+Try:
+
+127.0.0.1
+
+Then try:
+
+127.0.0.1 && whoami
+
+Observe additional command output.
+
+
+----------------------------------------------------
+Exercise 9 – File Upload
+----------------------------------------------------
+
+Open:
+
+DVWA → File Upload
+
+Upload:
+
+hello.txt
+
+Capture the request and inspect:
+
+Content-Type: multipart/form-data
+
+
+----------------------------------------------------
+Exercise 10 – Intruder
+----------------------------------------------------
+
+Capture a login request.
+
+Send to Intruder.
+
+Select the password field.
+
+Load a small wordlist:
+
+admin
+password
+password123
+123456
+letmein
+
+Start the attack.
+
+Observe response lengths and status codes.
+
+
+----------------------------------------------------
+Exercise 11 – Cookies
+----------------------------------------------------
+
+After login, inspect:
+
+Cookie: PHPSESSID=...
+
+Discuss session management and authentication cookies.
+
+
+----------------------------------------------------
+Exercise 12 – Response Headers
+----------------------------------------------------
+
+Inspect response headers and identify:
+
+Content-Type
+Server
+Date
+Set-Cookie
+
+Explain the purpose of each header.
+
+
+----------------------------------------------------
+Student Assignment
+----------------------------------------------------
+
+1. Capture five requests.
+2. Record three POST requests.
+3. Identify one cookie value.
+4. Demonstrate SQL Injection.
+5. Demonstrate XSS.
+6. Capture Intruder results.
+7. Capture Repeater output.
+8. Capture Decoder output.
+9. Capture HTTP History.
+10. Write security recommendations for each vulnerability.
