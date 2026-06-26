@@ -11,6 +11,7 @@ Login:
 Username: admin
 Password: password
 
+Click on the database recreate button at the bottom and login again
 
 Step 2: Configure Burp
 
