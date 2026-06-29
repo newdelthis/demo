@@ -1,4 +1,4 @@
-GitHub repo: github.com/newdelthis/demo/bank-demo
+GitHub repo: https://github.com/newdelthis/demo/tree/main/bank-demo
 
 Linux machine
 =============
