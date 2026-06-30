@@ -1,0 +1,63 @@
+5f4dcc3b5aa765d61d8327deb882cf99
+e10adc3949ba59abbe56e057f20f883e
+25d55ad283aa400af464c76d713c07ad
+482c811da5d5b4bc6d497ffa98491e38
+d8578edf8458ce06fbc5bb76a58c5ca4
+e99a18c428cb38d5f260853678922e03
+21232f297a57a5a743894a0e4a801fc3
+0d107d09f5bbe40cade3de5c71e9e9b7
+40be4e59b9a2a2b5dffb918c0e86b3d7
+d0763edaa9d9bd2a9516280e9044d885
+8621ffdbc5698829397d97767ac13db3
+37b4e2d82900d5e94b8da524fbeb33c0
+f25a2fc72690b780b2a14e140ef6a9e0
+eb0a191797624dd3a48fa681d3061212
+0571749e2ac330a7455809c6b0e7af90
+d56b699830e77ba53855679cb1d252da
+8afa847f50a716e64932d995c8e7435a
+5653c6b1f51852a6351ec69c8452abc6
+bed128365216c019988915ed3add75fb
+5badcaf789d3d1d09794d8f021f40f0e
+5d41402abc4b2a76b9719d911017c592
+d5aa1729c8c253e5d917a5264855eab8
+008c5926ca861023c1d2a36653fd88e2
+5fcfd41e547a12215b173ff47fdd3739
+5ebe2294ecd0e0f08eab7690d2a6ee69
+bf779e0933a882808585d19455cd7937
+0d343c0f0ca763f983c8042350059f56
+608f0b988db4a96066af7dd8870de96c
+df53ca268240ca76670c8566ee54568a
+6b1628b016dff46e6fa35684be6acc96
+f6432274349b5cb93433f8ed886a3f37
+2a2d595e6ed9a0b24f027f2b63b134d6
+3a4b5f2f801ada677ac11ce2db032f1c
+4bc48e00300464d2670958ab3c8982ea
+cc03e747a6afbbcbf8be7668acfebee5
+084e0343a0486ff05530df6c705c8bb4
+63a9f0ea7bb98050796b649e85481845
+7b24afc8bc80e548d66c4e7ff72171c5
+4cb9c8a8048fd02294477fcb1a41191a
+1d0258c2440a8d19e716292b231e3190
+200ceb26807d6bf99fd6f4f0d1ca54d4
+a189c633d9995e11bf8607170ec9a4b8
+81c3b080dad537de7e10e0987a4bf52e
+e8a48653851e28c69d0506508fb27fc5
+1d41c853af58d3a7ae54990ce29417d8
+d6ca3fd0c3a3b462ff2b83436dda495e
+e206a54e97690cce50cc872dd70ee896
+0192023a7bbd73250516f069df18b500
+201f00b5ca5d65a1c118e5e32431514c
+fe01ce2a7fbac8fafaed7c982a04e229
+
+| Password      | Password | Password | Password    | Password |
+| ------------- | -------- | -------- | ----------- | -------- |
+| password      | 123456   | 12345678 | password123 | qwerty   |
+| abc123        | admin    | letmein  | welcome     | monkey   |
+| dragon        | football | iloveyou | master      | sunshine |
+| login         | princess | solo     | passw0rd    | starwars |
+| hello         | freedom  | whatever | trustno1    | secret   |
+| charlie       | donald   | flower   | computer    | summer   |
+| winter        | spring   | autumn   | india123    | test123  |
+| guest         | root     | toor     | changeme    | manager  |
+| administrator | oracle   | mysql    | postgres    | ubuntu   |
+| kali          | linux    | admin123 | welcome1    | demo     |
