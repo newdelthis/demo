@@ -1,0 +1,453 @@
+Match_No,Innings,match_date,Versus,mode_of_dismissal,Runs,Balls_faced
+1,1,1989-12-18 00:00:00,Pakistan,c Wasim Akram b Waqar Younis,0,2
+2,2,1990-03-01 00:00:00,New Zealand,c & b S A Thomson,0,2
+3,3,1990-03-06 00:00:00,New Zealand,c †I D S Smith b S A Thomson,36,39
+4,4,1990-04-25 00:00:00,Sri Lanka,run out,10,12
+5,5,1990-04-27 00:00:00,Pakistan,c Saeed Anwar b Imran Khan,20,25
+6,6,1990-07-18 00:00:00,England,b D E Malcolm,19,35
+7,7,1990-07-20 00:00:00,England,b A R C Fraser,31,26
+8,8,1990-12-01 00:00:00,Sri Lanka,b R J Ratnayake,36,22
+9,9,1990-12-05 00:00:00,Sri Lanka,b G F Labrooy,53,41
+10,10,1990-12-08 00:00:00,Sri Lanka,c & b S D Anurasiri,30,29
+12,11,1990-12-28 00:00:00,Sri Lanka,lbw b A Ranatunga,4,11
+13,12,1991-01-04 00:00:00,Sri Lanka,lbw b R J Ratnayake,53,70
+14,13,1991-10-18 00:00:00,Pakistan,not out,52,40
+15,14,1991-10-19 00:00:00,West Indies,run out,22,27
+16,15,1991-10-22 00:00:00,West Indies,not out,11,27
+17,16,1991-10-23 00:00:00,Pakistan,c sub b Saleem Malik,49,38
+18,17,1991-10-25 00:00:00,Pakistan,lbw b Aaqib Javed,0,1
+19,18,1991-11-10 00:00:00,South Africa,c R P Snell b A A Donald,62,73
+20,19,1991-11-12 00:00:00,South Africa,c †D J Richardson b C R Matthews,4,8
+21,20,1991-11-14 00:00:00,South Africa,c S J Cook b A A Donald,1,3
+22,21,1991-12-06 00:00:00,West Indies,c R B Richardson b A C Cummins,1,9
+23,22,1991-12-08 00:00:00,Australia,c P L Taylor b T M Moody,36,65
+24,23,1991-12-10 00:00:00,Australia,c S R Waugh b P L Taylor,57,107
+25,24,1991-12-14 00:00:00,West Indies,c & b K L T Arthurton,48,57
+26,25,1991-12-15 00:00:00,Australia,c D M Jones b S R Waugh,21,35
+27,26,1992-01-11 00:00:00,West Indies,c sub b A C Cummins,77,127
+28,27,1992-01-14 00:00:00,Australia,run out,31,44
+29,28,1992-01-16 00:00:00,West Indies,not out,57,88
+30,29,1992-01-18 00:00:00,Australia,c M R Whitney b T M Moody,4,10
+31,30,1992-01-20 00:00:00,Australia,c M R Whitney b S R Waugh,69,100
+32,31,1992-02-22 00:00:00,England,c †A J Stewart b I T Botham,35,44
+34,32,1992-03-01 00:00:00,Australia,c S R Waugh b T M Moody,11,19
+35,33,1992-03-04 00:00:00,Pakistan,not out,54,62
+36,34,1992-03-07 00:00:00,Zimbabwe,c A D R Campbell b M G Burmester,81,77
+37,35,1992-03-10 00:00:00,West Indies,c †D Williams b C E L Ambrose,4,11
+38,36,1992-03-12 00:00:00,New Zealand,c †I D S Smith b C Z Harris,84,107
+39,37,1992-03-15 00:00:00,South Africa,c K C Wessels b A P Kuiper,14,14
+40,38,1992-10-25 00:00:00,Zimbabwe,c D H Brain b G J Crocker,39,56
+41,39,1992-12-07 00:00:00,South Africa,b B M McMillan,15,27
+42,40,1992-12-09 00:00:00,South Africa,c †D J Richardson b D J Callaghan,10,36
+43,41,1992-12-11 00:00:00,South Africa,c †D J Richardson b C R Matthews,22,24
+44,42,1992-12-13 00:00:00,South Africa,c B M McMillan b A A Donald,21,44
+45,43,1992-12-15 00:00:00,South Africa,b P S De Villiers,32,52
+46,44,1992-12-17 00:00:00,South Africa,c W J Cronje b M W Pringle,23,39
+47,45,1992-12-19 00:00:00,South Africa,c †D J Richardson b C R Matthews,21,38
+48,46,1993-01-18 00:00:00,England,not out,82,81
+49,47,1993-01-21 00:00:00,England,lbw b P A J De Freitas,1,5
+50,48,1993-02-26 00:00:00,England,c G A Hick b C C Lewis,3,6
+51,49,1993-03-01 00:00:00,England,b P W Jarvis,24,32
+52,50,1993-03-04 00:00:00,England,b P W Jarvis,5,6
+53,51,1993-03-05 00:00:00,England,c sub b C C Lewis,34,30
+54,52,1993-03-19 00:00:00,Zimbabwe,c & b G W Flower,3,9
+55,53,1993-03-22 00:00:00,Zimbabwe,not out,8,6
+57,54,1993-07-25 00:00:00,Sri Lanka,c A P Gurusinha b S T Jayasuriya,21,39
+58,55,1993-08-12 00:00:00,Sri Lanka,run out,15,30
+59,56,1993-08-14 00:00:00,Sri Lanka,c M Muralitharan b S T Jayasuriya,25,39
+60,57,1993-11-07 00:00:00,Sri Lanka,not out,26,30
+61,58,1993-11-16 00:00:00,West Indies,lbw b C A Walsh,2,8
+62,59,1993-11-18 00:00:00,Zimbabwe,c & b H H Streak,24,16
+63,60,1993-11-22 00:00:00,South Africa,c †D J Richardson b W J Cronje,3,25
+64,61,1993-11-24 00:00:00,South Africa,c †D J Richardson b R P Snell,15,31
+65,62,1993-11-27 00:00:00,West Indies,not out,28,43
+66,63,1994-02-15 00:00:00,Sri Lanka,c A Ranatunga b R S Kalpage,1,5
+67,64,1994-02-18 00:00:00,Sri Lanka,not out,11,18
+68,65,1994-02-20 00:00:00,Sri Lanka,run out,52,63
+69,66,1994-03-25 00:00:00,New Zealand,c K R Rutherford b D J Nash,15,19
+70,67,1994-03-27 00:00:00,New Zealand,c & b M N Hart,82,49
+71,68,1994-03-30 00:00:00,New Zealand,lbw b G R Larsen,63,75
+72,69,1994-04-02 00:00:00,New Zealand,b G R Larsen,40,26
+73,70,1994-04-13 00:00:00,United Arab Emirates,c †Imtiaz Abbasi b Sultan Zarawani,63,77
+74,71,1994-04-15 00:00:00,Pakistan,c Basit Ali b Akram Raza,73,64
+75,72,1994-04-19 00:00:00,Australia,c M A Taylor b G D McGrath,6,7
+76,73,1994-04-22 00:00:00,Pakistan,c Aamir Sohail b AtaUrRehman,24,26
+77,74,1994-09-04 00:00:00,Sri Lanka,not out,11,16
+78,75,1994-09-05 00:00:00,Sri Lanka,c H D P K Dharmasena b G P Wickramasinghe,6,5
+79,76,1994-09-09 00:00:00,Australia,b C J McDermott,110,130
+80,77,1994-09-17 00:00:00,Sri Lanka,c P A de Silva b W P U J C Vaas,0,2
+81,78,1994-10-17 00:00:00,West Indies,c B C Lara b C A Walsh,0,4
+82,79,1994-10-20 00:00:00,West Indies,c C L Hooper b C E Cuffy,0,4
+83,80,1994-10-23 00:00:00,West Indies,c C L Hooper b A C Cummins,8,24
+84,81,1994-10-28 00:00:00,New Zealand,run out,115,136
+85,82,1994-10-30 00:00:00,West Indies,b A C Cummins,34,47
+86,83,1994-11-03 00:00:00,New Zealand,b M N Hart,62,54
+87,84,1994-11-05 00:00:00,West Indies,c S C Williams b C E Cuffy,66,68
+88,85,1994-11-07 00:00:00,West Indies,c A C Cummins b C L Hooper,54,64
+89,86,1994-11-09 00:00:00,West Indies,b P V Simmons,88,112
+90,87,1994-11-11 00:00:00,West Indies,c †J C Adams b B S Browne,105,134
+91,88,1995-02-16 00:00:00,New Zealand,c S A Thomson b D K Morrison,13,15
+92,89,1995-02-18 00:00:00,South Africa,c P L Symcox b W J Cronje,37,51
+93,90,1995-02-22 00:00:00,Australia,c M A Taylor b J Angel,47,40
+94,91,1995-04-05 00:00:00,Bangladesh,b Mohammad Rafique,48,30
+95,92,1995-04-07 00:00:00,Pakistan,c †Moin Khan b Aaqib Javed,4,9
+96,93,1995-04-09 00:00:00,Sri Lanka,not out,112,107
+97,94,1995-04-14 00:00:00,Sri Lanka,c S T Jayasuriya b C P H Ramanayake,41,41
+98,95,1995-11-15 00:00:00,New Zealand,c M J Greatbatch b D K Morrison,30,20
+99,96,1995-11-18 00:00:00,New Zealand,c †L K Germon b S A Thomson,39,51
+100,97,1995-11-24 00:00:00,New Zealand,c G R Larsen b D K Morrison,7,11
+101,98,1995-11-26 00:00:00,New Zealand,run out,65,59
+102,99,1995-11-29 00:00:00,New Zealand,b D K Morrison,1,4
+103,100,1996-02-18 00:00:00,Kenya,not out,127,138
+104,101,1996-02-21 00:00:00,West Indies,run out,70,91
+105,102,1996-02-27 00:00:00,Australia,st I A Healy b M E Waugh,90,84
+106,103,1996-03-02 00:00:00,Sri Lanka,run out,137,137
+107,104,1996-03-06 00:00:00,Zimbabwe,b H H Streak,3,12
+108,105,1996-03-09 00:00:00,Pakistan,b AtaUrRehman,31,59
+109,106,1996-03-13 00:00:00,Sri Lanka,st R S Kaluwitharana b S T Jayasuriya,65,88
+110,107,1996-04-03 00:00:00,Sri Lanka,c S T Jayasuriya b G P Wickramasinghe,28,31
+111,108,1996-04-05 00:00:00,Pakistan,st Rashid Latif b Saqlain Mushtaq,100,111
+112,109,1996-04-12 00:00:00,Pakistan,c Saeed Anwar b Aaqib Javed,1,5
+113,110,1996-04-14 00:00:00,South Africa,c G Kirsten b P S De Villiers,2,15
+114,111,1996-04-15 00:00:00,Pakistan,c Aamir Sohail b Waqar Younis,118,140
+115,112,1996-04-17 00:00:00,South Africa,c G Kirsten b P S De Villiers,17,26
+116,113,1996-04-19 00:00:00,South Africa,run out,57,71
+117,114,1996-05-23 00:00:00,England,lbw b P J Martin,30,19
+118,115,1996-05-25 00:00:00,England,run out,6,19
+119,116,1996-05-26 00:00:00,England,c G A Hick b D G Cork,1,11
+120,117,1996-08-28 00:00:00,Sri Lanka,run out,110,138
+121,118,1996-09-01 00:00:00,Zimbabwe,c B C Strang b H H Streak,40,46
+122,119,1996-09-06 00:00:00,Australia,c S R Waugh b G D McGrath,7,11
+123,120,1996-09-16 00:00:00,Pakistan,not out,89,89
+124,121,1996-09-17 00:00:00,Pakistan,c Wasim Akram b Azhar Mahmood,20,23
+125,122,1996-09-18 00:00:00,Pakistan,c Aamir Sohail b Wasim Akram,2,13
+126,123,1996-09-21 00:00:00,Pakistan,c Saleem Malik b Wasim Akram,3,9
+127,124,1996-09-23 00:00:00,Pakistan,run out,23,44
+128,125,1996-10-17 00:00:00,South Africa,c D J Cullinan b P S De Villiers,11,8
+129,126,1996-10-21 00:00:00,Australia,lbw b S R Waugh,88,111
+130,127,1996-10-23 00:00:00,South Africa,c G Kirsten b B M McMillan,64,93
+131,128,1996-10-29 00:00:00,South Africa,lbw b A A Donald,28,38
+132,129,1996-11-03 00:00:00,Australia,c S G Law b M E Waugh,62,60
+133,130,1996-11-06 00:00:00,South Africa,c W J Cronje b N Boje,67,88
+134,131,1996-12-14 00:00:00,South Africa,st G Kirsten b N Boje,114,126
+135,132,1997-01-23 00:00:00,South Africa,b S M Pollock,0,4
+136,133,1997-01-27 00:00:00,Zimbabwe,c A D R Campbell b E A Brandes,6,8
+137,134,1997-02-02 00:00:00,South Africa,b A A Donald,1,14
+138,135,1997-02-04 00:00:00,South Africa,c D J Cullinan b L Klusener,14,24
+139,136,1997-02-07 00:00:00,Zimbabwe,c A C Waller b A D R Campbell,41,56
+140,137,1997-02-09 00:00:00,Zimbabwe,c A D R Campbell b C N Evans,104,97
+141,138,1997-02-12 00:00:00,South Africa,c J N Rhodes b L Klusener,32,27
+142,139,1997-02-13 00:00:00,South Africa,c R E Bryson b W J Cronje,45,33
+143,140,1997-02-15 00:00:00,Zimbabwe,c G W Flower b E A Brandes,13,15
+144,141,1997-04-26 00:00:00,West Indies,c †C O Browne b C E L Ambrose,44,43
+145,142,1997-04-27 00:00:00,West Indies,not out,65,70
+146,143,1997-04-30 00:00:00,West Indies,b C A Walsh,9,15
+147,144,1997-05-03 00:00:00,West Indies,c B C Lara b C A Walsh,1,11
+148,145,1997-05-14 00:00:00,New Zealand,b N J Astle,117,137
+149,146,1997-05-17 00:00:00,Sri Lanka,c H D P K Dharmasena b K S C de Silva,2,4
+150,147,1997-05-21 00:00:00,Pakistan,c InzamamulHaq b Aaqib Javed,4,7
+151,148,1997-07-18 00:00:00,Sri Lanka,b W P U J C Vaas,21,28
+153,149,1997-07-24 00:00:00,Bangladesh,b Enamul Haque,28,21
+154,150,1997-07-26 00:00:00,Sri Lanka,c R S Kalpage b M Muralitharan,53,67
+155,151,1997-08-17 00:00:00,Sri Lanka,c M Muralitharan b W P U J C Vaas,27,28
+156,152,1997-08-20 00:00:00,Sri Lanka,lbw b W P U J C Vaas,6,6
+157,153,1997-08-23 00:00:00,Sri Lanka,c A Ranatunga b D K Liyanage,27,31
+158,154,1997-08-24 00:00:00,Sri Lanka,c †S K L de Silva b K S C de Silva,39,32
+159,155,1997-09-13 00:00:00,Pakistan,c Mohammad Akram b Azhar Mahmood,17,54
+160,156,1997-09-14 00:00:00,Pakistan,not out,25,45
+162,157,1997-09-18 00:00:00,Pakistan,c †Moin Khan b Mohammad Akram,0,10
+163,158,1997-09-20 00:00:00,Pakistan,c †Moin Khan b Shahid Nazir,6,7
+164,159,1997-09-21 00:00:00,Pakistan,lbw b Azhar Mahmood,51,64
+165,160,1997-09-28 00:00:00,Pakistan,b Waqar Younis,2,11
+166,161,1997-09-30 00:00:00,Pakistan,c †Moin Khan b Azhar Mahmood,21,18
+167,162,1997-10-02 00:00:00,Pakistan,c InzamamulHaq b Aaqib Javed,7,11
+168,163,1997-12-11 00:00:00,England,st A J Stewart b M V Fleming,91,87
+169,164,1997-12-14 00:00:00,Pakistan,c InzamamulHaq b Manzoor Akhtar,3,4
+170,165,1997-12-16 00:00:00,West Indies,run out,1,2
+171,166,1997-12-22 00:00:00,Sri Lanka,not out,82,86
+173,167,1997-12-28 00:00:00,Sri Lanka,c K S C de Silva b M Muralitharan,6,13
+174,168,1998-01-10 00:00:00,Bangladesh,c & b Mohammad Rafique,54,76
+175,169,1998-01-11 00:00:00,Pakistan,st Rashid Latif b Saqlain Mushtaq,67,44
+176,170,1998-01-14 00:00:00,Pakistan,b Shahid Afridi,95,78
+177,171,1998-01-16 00:00:00,Pakistan,b Azhar Mahmood,1,6
+178,172,1998-01-18 00:00:00,Pakistan,c Azhar Mahmood b Shahid Afridi,41,26
+179,173,1998-04-01 00:00:00,Australia,c R T Ponting b M S Kasprowicz,8,11
+180,174,1998-04-05 00:00:00,Zimbabwe,run out,5,17
+181,175,1998-04-07 00:00:00,Australia,c sub b S K Warne,100,89
+182,176,1998-04-09 00:00:00,Zimbabwe,c †A Flower b M Mbangwa,1,2
+183,177,1998-04-14 00:00:00,Australia,c †A C Gilchrist b D W Fleming,15,24
+184,178,1998-04-17 00:00:00,New Zealand,c S B Doull b C Z Harris,40,41
+185,179,1998-04-19 00:00:00,Australia,c †A C Gilchrist b D W Fleming,80,72
+186,180,1998-04-20 00:00:00,New Zealand,run out,38,58
+187,181,1998-04-22 00:00:00,Australia,c †A C Gilchrist b D W Fleming,143,131
+188,182,1998-04-24 00:00:00,Australia,lbw b M S Kasprowicz,134,131
+189,183,1998-05-25 00:00:00,Bangladesh,c Aminul Islam b Athar Ali Khan,33,29
+190,184,1998-05-28 00:00:00,Kenya,c A Y A Karim b M A Suji,18,25
+191,185,1998-05-31 00:00:00,Kenya,not out,100,103
+192,186,1998-06-19 00:00:00,Sri Lanka,c M S Atapattu b M Muralitharan,65,50
+193,187,1998-06-23 00:00:00,New Zealand,c & b C Z Harris,53,36
+194,188,1998-07-01 00:00:00,Sri Lanka,c & b H D P K Dharmasena,17,16
+196,189,1998-07-07 00:00:00,Sri Lanka,st R S Kaluwitharana b S T Jayasuriya,128,131
+197,190,1998-09-20 00:00:00,Pakistan,c InzamamulHaq b Aamir Sohail,77,109
+198,191,1998-09-26 00:00:00,Zimbabwe,not out,127,130
+199,192,1998-09-27 00:00:00,Zimbabwe,c C B Wishart b M L Nkala,29,21
+200,193,1998-09-30 00:00:00,Zimbabwe,c C N Evans b H H Streak,2,6
+201,194,1998-10-28 00:00:00,Australia,run out,141,128
+202,195,1998-10-31 00:00:00,West Indies,c C L Hooper b M V Dillon,8,14
+203,196,1998-11-06 00:00:00,Sri Lanka,c †R S Kaluwitharana b W P U J C Vaas,3,6
+204,197,1998-11-08 00:00:00,Zimbabwe,not out,118,112
+205,198,1998-11-09 00:00:00,Sri Lanka,c M S Atapattu b G P Wickramasinghe,18,28
+206,199,1998-11-11 00:00:00,Zimbabwe,c G W Flower b H K Olonga,11,12
+207,200,1998-11-13 00:00:00,Zimbabwe,not out,124,92
+208,201,1999-01-09 00:00:00,New Zealand,c C Z Harris b C L Cairns,0,5
+209,202,1999-01-12 00:00:00,New Zealand,c B A Young b D J Nash,23,19
+210,203,1999-01-14 00:00:00,New Zealand,st A C Parore b G R Larsen,45,42
+211,204,1999-01-16 00:00:00,New Zealand,lbw b C L Cairns,5,12
+212,205,1999-05-15 00:00:00,South Africa,c †M V Boucher b L Klusener,28,46
+213,206,1999-05-23 00:00:00,Kenya,not out,140,101
+214,207,1999-05-26 00:00:00,Sri Lanka,b S T Jayasuriya,2,3
+215,208,1999-05-29 00:00:00,England,c G A Hick b M A Ealham,22,40
+216,209,1999-06-04 00:00:00,Australia,c †A C Gilchrist b G D McGrath,0,4
+217,210,1999-06-08 00:00:00,Pakistan,c Saqlain Mushtaq b Azhar Mahmood,45,65
+218,211,1999-06-12 00:00:00,New Zealand,b D J Nash,16,22
+219,212,1999-08-23 00:00:00,Australia,c D S Lehmann b T M Moody,14,33
+220,213,1999-08-25 00:00:00,Sri Lanka,run out,37,58
+221,214,1999-08-29 00:00:00,Sri Lanka,c M Muralitharan b D N T Zoysa,120,141
+222,215,1999-09-04 00:00:00,Zimbabwe,c S V Carlisle b A R Whittall,85,72
+223,216,1999-09-07 00:00:00,West Indies,c †R D Jacobs b C A Walsh,40,65
+224,217,1999-09-08 00:00:00,West Indies,c H R Bryan b C A Walsh,0,6
+225,218,1999-11-05 00:00:00,New Zealand,c C L Cairns b S B Styris,32,31
+226,219,1999-11-08 00:00:00,New Zealand,not out,186,150
+227,220,1999-11-11 00:00:00,New Zealand,c S P Fleming b C J Drum,1,23
+228,221,1999-11-14 00:00:00,New Zealand,c C M Spearman b C J Drum,2,10
+229,222,1999-11-17 00:00:00,New Zealand,c & b D L Vettori,0,3
+230,223,2000-01-10 00:00:00,Pakistan,b Abdul Razzaq,13,26
+231,224,2000-01-12 00:00:00,Australia,run out,12,11
+232,225,2000-01-14 00:00:00,Australia,c †A C Gilchrist b G D McGrath,1,11
+233,226,2000-01-21 00:00:00,Pakistan,b Abdul Razzaq,93,103
+234,227,2000-01-25 00:00:00,Pakistan,c †Moin Khan b Abdul Razzaq,41,46
+235,228,2000-01-26 00:00:00,Australia,c S C G MacGill b B Lee,18,28
+236,229,2000-01-28 00:00:00,Pakistan,c †Moin Khan b Waqar Younis,17,14
+237,230,2000-01-30 00:00:00,Australia,b D W Fleming,3,21
+238,231,2000-03-09 00:00:00,South Africa,c H S Williams b M Hayward,26,25
+239,232,2000-03-12 00:00:00,South Africa,c W J Cronje b S M Pollock,21,31
+240,233,2000-03-15 00:00:00,South Africa,lbw b S M Pollock,12,28
+241,234,2000-03-17 00:00:00,South Africa,c S Elworthy b J H Kallis,122,138
+242,235,2000-03-19 00:00:00,South Africa,c S Elworthy b D N Crookes,93,89
+243,236,2000-03-22 00:00:00,South Africa,b S M Pollock,5,8
+244,237,2000-03-23 00:00:00,Pakistan,lbw b Shoaib Akhtar,11,28
+245,238,2000-03-26 00:00:00,Pakistan,b Wasim Akram,10,18
+246,239,2000-03-27 00:00:00,South Africa,run out,39,68
+247,240,2000-05-30 00:00:00,Bangladesh,c Habibul Bashar b Mushfiqur Rahman,36,25
+248,241,2000-06-01 00:00:00,Sri Lanka,c D P M D Jayawardene b K Weeraratne,93,95
+249,242,2000-06-03 00:00:00,Pakistan,lbw b Abdul Razzaq,25,30
+250,243,2000-10-03 00:00:00,Kenya,lbw b A O Suji,25,35
+251,244,2000-10-07 00:00:00,Australia,c D R Martyn b B Lee,38,37
+252,245,2000-10-13 00:00:00,South Africa,c L Klusener b J H Kallis,39,50
+253,246,2000-10-15 00:00:00,New Zealand,run out,69,83
+254,247,2000-10-20 00:00:00,Sri Lanka,run out,101,140
+255,248,2000-10-22 00:00:00,Zimbabwe,c †A Flower b H H Streak,8,15
+256,249,2000-10-26 00:00:00,Zimbabwe,c P A Strang b T J Friend,4,10
+257,250,2000-10-27 00:00:00,Sri Lanka,c W P U J C Vaas b M Muralitharan,61,54
+258,251,2000-10-29 00:00:00,Sri Lanka,c & b W P U J C Vaas,5,11
+259,252,2000-12-02 00:00:00,Zimbabwe,c H H Streak b D P Viljoen,44,49
+260,253,2000-12-05 00:00:00,Zimbabwe,c †A Flower b T J Friend,8,20
+261,254,2000-12-08 00:00:00,Zimbabwe,c M L Nkala b H H Streak,146,153
+262,255,2000-12-11 00:00:00,Zimbabwe,lbw b T J Friend,62,86
+263,256,2000-12-14 00:00:00,Zimbabwe,b M L Nkala,27,38
+264,257,2001-03-25 00:00:00,Australia,run out,35,26
+265,258,2001-03-28 00:00:00,Australia,c D S Lehmann b D W Fleming,32,29
+266,259,2001-03-31 00:00:00,Australia,c D W Fleming b G D McGrath,139,125
+267,260,2001-04-03 00:00:00,Australia,c S R Waugh b N W Bracken,62,38
+268,261,2001-04-06 00:00:00,Australia,c †A C Gilchrist b N W Bracken,12,15
+269,262,2001-06-24 00:00:00,Zimbabwe,not out,70,70
+270,263,2001-06-27 00:00:00,Zimbabwe,c G W Flower b B C Strang,9,27
+271,264,2001-06-30 00:00:00,West Indies,not out,81,110
+272,265,2001-07-04 00:00:00,West Indies,not out,122,131
+273,266,2001-07-07 00:00:00,West Indies,c D Ganga b C D Collymore,0,4
+274,267,2001-10-05 00:00:00,South Africa,c H H Gibbs b J H Kallis,101,129
+275,268,2001-10-10 00:00:00,South Africa,c A Nel b M Ntini,38,57
+277,269,2001-10-17 00:00:00,Kenya,b J O Angara,3,20
+278,270,2001-10-19 00:00:00,South Africa,b J H Kallis,37,35
+279,271,2001-10-24 00:00:00,Kenya,c M O Odumbe b T Odoyo,146,132
+280,272,2001-10-26 00:00:00,South Africa,b M Hayward,17,42
+281,273,2002-01-19 00:00:00,England,b A Flintoff,36,43
+282,274,2002-01-22 00:00:00,England,run out,45,60
+283,275,2002-01-25 00:00:00,England,lbw b J N Snape,68,79
+284,276,2002-01-28 00:00:00,England,not out,87,67
+285,277,2002-01-31 00:00:00,England,c †J S Foster b A R Caddick,18,16
+286,278,2002-02-03 00:00:00,England,c †J S Foster b D Gough,12,18
+287,279,2002-05-29 00:00:00,West Indies,not out,34,45
+288,280,2002-06-02 00:00:00,West Indies,b M V Dillon,65,70
+289,281,2002-06-29 00:00:00,England,lbw b R C Irani,1,9
+290,282,2002-06-30 00:00:00,Sri Lanka,c †R S Kaluwitharana b D N T Zoysa,49,70
+291,283,2002-07-04 00:00:00,England,not out,105,108
+292,284,2002-07-06 00:00:00,Sri Lanka,c M S Atapattu b C R D Fernando,19,25
+293,285,2002-07-09 00:00:00,England,c †A J Stewart b M J Hoggard,36,29
+294,286,2002-07-11 00:00:00,Sri Lanka,c U D U Chandana b W P U J C Vaas,113,102
+295,287,2002-07-13 00:00:00,England,b A F Giles,14,19
+296,288,2002-09-14 00:00:00,Zimbabwe,c A D R Campbell b D T Hondo,7,16
+297,289,2002-09-22 00:00:00,England,not out,9,20
+298,290,2002-09-25 00:00:00,South Africa,run out,16,29
+300,291,2002-09-30 00:00:00,Sri Lanka,not out,7,22
+301,292,2003-01-08 00:00:00,New Zealand,lbw b S E Bond,0,10
+302,293,2003-01-11 00:00:00,New Zealand,c †B B McCullum b D R Tuffey,1,13
+303,294,2003-01-14 00:00:00,New Zealand,c S P Fleming b D R Tuffey,1,6
+304,295,2003-02-12 00:00:00,Netherlands,c †J Smits b T B M de Leede,52,72
+305,296,2003-02-15 00:00:00,Australia,lbw b J N Gillespie,36,59
+306,297,2003-02-19 00:00:00,Zimbabwe,b G W Flower,81,91
+307,298,2003-02-23 00:00:00,Namibia,b R J van Vuuren,152,151
+308,299,2003-02-26 00:00:00,England,c P D Collingwood b A Flintoff,50,52
+309,300,2003-03-01 00:00:00,Pakistan,c Younis Khan b Shoaib Akhtar,98,75
+310,301,2003-03-07 00:00:00,Kenya,c A O Suji b M A Suji,5,12
+311,302,2003-03-10 00:00:00,Sri Lanka,c †K C Sangakkara b P A de Silva,97,120
+312,303,2003-03-14 00:00:00,New Zealand,c J D P Oram b D R Tuffey,15,16
+313,304,2003-03-20 00:00:00,Kenya,c D O Obuya b S O Tikolo,83,101
+314,305,2003-03-23 00:00:00,Australia,c & b G D McGrath,4,5
+315,306,2003-10-23 00:00:00,New Zealand,not out,48,66
+316,307,2003-10-26 00:00:00,Australia,c †A C Gilchrist b N W Bracken,100,119
+317,308,2003-11-01 00:00:00,Australia,b M J Clarke,68,76
+318,309,2003-11-06 00:00:00,New Zealand,lbw b K D Mills,14,14
+319,310,2003-11-12 00:00:00,Australia,b I J Harvey,89,91
+320,311,2003-11-15 00:00:00,New Zealand,c J D P Oram b C Z Harris,102,91
+321,312,2003-11-18 00:00:00,Australia,b A J Bichel,45,66
+322,313,2004-01-09 00:00:00,Australia,c R T Ponting b A Symonds,63,69
+323,314,2004-01-14 00:00:00,Zimbabwe,b S M Ervine,44,59
+324,315,2004-01-18 00:00:00,Australia,c & b A Symonds,86,95
+325,316,2004-02-01 00:00:00,Australia,c M L Hayden b B Lee,5,6
+326,317,2004-02-03 00:00:00,Zimbabwe,c †T Taibu b H H Streak,3,8
+327,318,2004-02-06 00:00:00,Australia,b B Lee,8,22
+328,319,2004-02-08 00:00:00,Australia,c B Lee b J N Gillespie,27,40
+329,320,2004-03-13 00:00:00,Pakistan,c NavedulHasan b Shoaib Akhtar,28,35
+330,321,2004-03-16 00:00:00,Pakistan,c Abdul Razzaq b Shoaib Malik,141,135
+331,322,2004-03-19 00:00:00,Pakistan,c †Moin Khan b Shabbir Ahmed,0,5
+332,323,2004-03-21 00:00:00,Pakistan,c †Moin Khan b Shoaib Akhtar,7,13
+333,324,2004-03-24 00:00:00,Pakistan,c †Moin Khan b Mohammad Sami,37,48
+334,325,2004-07-16 00:00:00,United Arab Emirates,c Fahad Usman b Asim Saeed,18,25
+335,326,2004-07-18 00:00:00,Sri Lanka,c W S Jayantha b D N T Zoysa,11,13
+336,327,2004-07-21 00:00:00,Bangladesh,not out,82,126
+337,328,2004-07-24 00:00:00,Pakistan,c Imran Nazir b Shoaib Malik,78,103
+338,329,2004-07-27 00:00:00,Sri Lanka,lbw b D N T Zoysa,18,21
+339,330,2004-08-01 00:00:00,Sri Lanka,b T M Dilshan,74,100
+340,331,2004-11-13 00:00:00,Pakistan,run out,16,17
+341,332,2004-12-23 00:00:00,Bangladesh,c †Khaled Mashud b Nazmul Hossain,19,32
+342,333,2004-12-27 00:00:00,Bangladesh,c †Khaled Mashud b Khaled Mahmud,47,42
+343,334,2005-04-02 00:00:00,Pakistan,c Mohammad Yousuf b NavedulHasan,4,4
+344,335,2005-04-05 00:00:00,Pakistan,run out,2,8
+345,336,2005-04-09 00:00:00,Pakistan,c Younis Khan b Mohammad Sami,6,11
+346,337,2005-04-12 00:00:00,Pakistan,b Shoaib Malik,123,130
+347,338,2005-04-15 00:00:00,Pakistan,c †Kamran Akmal b NavedulHasan,1,10
+348,339,2005-04-17 00:00:00,Pakistan,b Iftikhar Anjum,9,15
+349,340,2005-10-25 00:00:00,Sri Lanka,c †K C Sangakkara b M F Maharoof,93,96
+350,341,2005-10-28 00:00:00,Sri Lanka,not out,67,69
+351,342,2005-10-31 00:00:00,Sri Lanka,c †K C Sangakkara b W P U J C Vaas,2,3
+352,343,2005-11-03 00:00:00,Sri Lanka,b W P U J C Vaas,11,19
+353,344,2005-11-09 00:00:00,Sri Lanka,c M F Maharoof b C R D Fernando,19,30
+354,345,2005-11-12 00:00:00,Sri Lanka,c & b D N T Zoysa,39,48
+355,346,2005-11-16 00:00:00,South Africa,c †M V Boucher b S M Pollock,2,9
+356,347,2005-11-19 00:00:00,South Africa,c sub b S M Pollock,2,22
+357,348,2005-11-25 00:00:00,South Africa,c †M V Boucher b S M Pollock,2,15
+358,349,2005-11-28 00:00:00,South Africa,c A G Prince b A Nel,30,44
+359,350,2006-02-06 00:00:00,Pakistan,lbw b Arshad Khan,100,113
+360,351,2006-02-11 00:00:00,Pakistan,c †Kamran Akmal b Abdul Razzaq,42,43
+361,352,2006-02-13 00:00:00,Pakistan,c sub b Abdul Razzaq,95,104
+362,353,2006-02-16 00:00:00,Pakistan,c †Kamran Akmal b Mohammad Sami,0,3
+363,354,2006-08-18 00:00:00,Sri Lanka,not out,2,3
+364,355,2006-09-14 00:00:00,West Indies,not out,141,148
+365,356,2006-09-16 00:00:00,Australia,c †B J Haddin b M G Johnson,12,17
+366,357,2006-09-20 00:00:00,West Indies,run out,65,102
+367,358,2006-09-22 00:00:00,Australia,c M E K Hussey b B Lee,4,10
+368,359,2006-10-15 00:00:00,England,lbw b S J Harmison,35,41
+369,360,2006-10-26 00:00:00,West Indies,b I D R Bradshaw,29,45
+370,361,2006-10-29 00:00:00,Australia,c †A C Gilchrist b G D McGrath,10,26
+371,362,2006-11-22 00:00:00,South Africa,b A Nel,35,51
+372,363,2006-11-26 00:00:00,South Africa,c L L Bosman b S M Pollock,2,9
+373,364,2006-11-29 00:00:00,South Africa,c †M V Boucher b S M Pollock,1,3
+374,365,2006-12-03 00:00:00,South Africa,c A B de Villiers b J M Kemp,55,97
+375,366,2007-01-21 00:00:00,West Indies,lbw b C H Gayle,31,38
+376,367,2007-01-24 00:00:00,West Indies,c D S Smith b D B Powell,0,6
+377,368,2007-01-27 00:00:00,West Indies,c R S Morton b D J Bravo,60,66
+378,369,2007-01-31 00:00:00,West Indies,not out,100,76
+380,370,2007-02-11 00:00:00,Sri Lanka,st K C Sangakkara b C M Bandara,54,61
+381,371,2007-02-14 00:00:00,Sri Lanka,b K M D N Kulasekara,1,8
+382,372,2007-03-17 00:00:00,Bangladesh,c †Mushfiqur Rahim b Abdur Razzak,7,26
+383,373,2007-03-19 00:00:00,Bermuda,not out,57,29
+384,374,2007-03-23 00:00:00,Sri Lanka,b C R D Fernando,0,3
+385,375,2007-06-23 00:00:00,Ireland,b R K Whelan,4,3
+386,376,2007-06-26 00:00:00,South Africa,run out,99,143
+387,377,2007-06-29 00:00:00,South Africa,b T Tshabalala,93,106
+388,378,2007-07-01 00:00:00,South Africa,c †M V Boucher b M Ntini,8,8
+389,379,2007-08-21 00:00:00,England,c R S Bopara b J M Anderson,17,33
+390,380,2007-08-24 00:00:00,England,c †M J Prior b A Flintoff,99,112
+391,381,2007-08-27 00:00:00,England,c P D Collingwood b J M Anderson,8,19
+392,382,2007-08-30 00:00:00,England,c A Flintoff b K P Pietersen,55,86
+393,383,2007-09-02 00:00:00,England,c †M J Prior b J Lewis,71,59
+394,384,2007-09-05 00:00:00,England,c P D Collingwood b M S Panesar,94,81
+395,385,2007-09-08 00:00:00,England,c †M J Prior b A Flintoff,30,46
+396,386,2007-09-29 00:00:00,Australia,lbw b M G Johnson,0,6
+397,387,2007-10-02 00:00:00,Australia,c A Symonds b S R Clark,16,25
+398,388,2007-10-05 00:00:00,Australia,b G B Hogg,43,71
+399,389,2007-10-08 00:00:00,Australia,run out,79,119
+400,390,2007-10-11 00:00:00,Australia,c †A C Gilchrist b B Lee,47,73
+401,391,2007-10-14 00:00:00,Australia,st A C Gilchrist b J R Hopes,72,72
+402,392,2007-10-17 00:00:00,Australia,b B Lee,21,36
+403,393,2007-11-05 00:00:00,Pakistan,lbw b Shoaib Akhtar,4,7
+404,394,2007-11-08 00:00:00,Pakistan,c †Kamran Akmal b Umar Gul,99,91
+405,395,2007-11-11 00:00:00,Pakistan,c †Kamran Akmal b Sohail Tanvir,29,27
+406,396,2007-11-15 00:00:00,Pakistan,b Umar Gul,97,102
+407,397,2007-11-18 00:00:00,Pakistan,c MisbahulHaq b Sohail Tanvir,30,27
+408,398,2008-02-03 00:00:00,Australia,hit wicket b B Lee,10,17
+409,399,2008-02-04 00:00:00,Sri Lanka,b S L Malinga,35,52
+410,400,2008-02-10 00:00:00,Australia,c B Lee b M G Johnson,44,54
+411,401,2008-02-12 00:00:00,Sri Lanka,c K M D N Kulasekara b M F Maharoof,32,30
+412,402,2008-02-17 00:00:00,Australia,lbw b N W Bracken,5,15
+413,403,2008-02-19 00:00:00,Sri Lanka,b S L Malinga,0,2
+414,404,2008-02-24 00:00:00,Australia,lbw b B Lee,2,3
+415,405,2008-02-26 00:00:00,Sri Lanka,c L P C Silva b M Muralitharan,63,54
+416,406,2008-03-02 00:00:00,Australia,not out,117,120
+417,407,2008-03-04 00:00:00,Australia,c R T Ponting b M J Clarke,91,121
+418,408,2008-11-23 00:00:00,England,b S C J Broad,11,21
+419,409,2008-11-26 00:00:00,England,b S J Harmison,50,57
+420,410,2009-01-28 00:00:00,Sri Lanka,lbw b T Thushara,5,16
+421,411,2009-01-31 00:00:00,Sri Lanka,lbw b K M D N Kulasekara,6,9
+422,412,2009-02-03 00:00:00,Sri Lanka,lbw b C R D Fernando,7,12
+423,413,2009-03-03 00:00:00,New Zealand,c †B B McCullum b I G Butler,20,23
+424,414,2009-03-06 00:00:00,New Zealand,lbw b D L Vettori,61,69
+425,415,2009-03-08 00:00:00,New Zealand,retired hurt,163,133
+426,416,2009-09-11 00:00:00,New Zealand,c M J Guptill b D L Vettori,46,55
+427,417,2009-09-12 00:00:00,Sri Lanka,c B A W Mendis b K M D N Kulasekara,27,33
+428,418,2009-09-14 00:00:00,Sri Lanka,lbw b B A W Mendis,138,133
+429,419,2009-09-26 00:00:00,Pakistan,c †Kamran Akmal b Mohammad Amir,8,14
+431,420,2009-10-25 00:00:00,Australia,c R T Ponting b S R Watson,14,29
+432,421,2009-10-28 00:00:00,Australia,c C L White b P M Siddle,4,8
+433,422,2009-10-31 00:00:00,Australia,run out,32,47
+434,423,2009-11-02 00:00:00,Australia,lbw b N M Hauritz,40,68
+435,424,2009-11-05 00:00:00,Australia,c N M Hauritz b C J McKay,175,141
+436,425,2009-11-08 00:00:00,Australia,c & b D E Bollinger,10,17
+437,426,2009-12-15 00:00:00,Sri Lanka,b C R D Fernando,69,63
+438,427,2009-12-18 00:00:00,Sri Lanka,st K C Sangakkara b B A W Mendis,43,52
+439,428,2009-12-21 00:00:00,Sri Lanka,not out,96,104
+440,429,2009-12-24 00:00:00,Sri Lanka,c S Randiv b R A S Lakmal,8,8
+441,430,2010-02-21 00:00:00,South Africa,run out,4,5
+442,431,2010-02-24 00:00:00,South Africa,not out,200,147
+443,432,2011-01-12 00:00:00,South Africa,c D W Steyn b L L Tsotsobe,7,11
+444,433,2011-01-15 00:00:00,South Africa,b J Botha,24,44
+445,434,2011-02-19 00:00:00,Bangladesh,run out,28,29
+446,435,2011-02-27 00:00:00,England,c M H Yardy b J M Anderson,120,115
+447,436,2011-03-06 00:00:00,Ireland,lbw b G H Dockrell,38,56
+448,437,2011-03-09 00:00:00,Netherlands,c B P Kruger b P M Seelaar,27,22
+449,438,2011-03-12 00:00:00,South Africa,c JP Duminy b M Morkel,111,101
+450,439,2011-03-20 00:00:00,West Indies,c †D C Thomas b R Rampaul,2,4
+451,440,2011-03-24 00:00:00,Australia,c †B J Haddin b S W Tait,53,68
+452,441,2011-03-30 00:00:00,Pakistan,c Shahid Afridi b Saeed Ajmal,85,115
+453,442,2011-04-02 00:00:00,Sri Lanka,c †K C Sangakkara b S L Malinga,18,14
+454,443,2012-02-05 00:00:00,Australia,c R T Ponting b M A Starc,2,6
+455,444,2012-02-08 00:00:00,Sri Lanka,b A D Mathews,48,63
+456,445,2012-02-14 00:00:00,Sri Lanka,c †K C Sangakkara b K M D N Kulasekara,15,24
+457,446,2012-02-19 00:00:00,Australia,c X J Doherty b B W Hilfenhaus,3,12
+458,447,2012-02-21 00:00:00,Sri Lanka,b K M D N Kulasekara,22,23
+459,448,2012-02-26 00:00:00,Australia,run out,14,15
+460,449,2012-02-28 00:00:00,Sri Lanka,lbw b S L Malinga,39,30
+461,450,2012-03-13 00:00:00,Sri Lanka,c D P M D Jayawardene b R A S Lakmal,6,19
+462,451,2012-03-16 00:00:00,Bangladesh,c †Mushfiqur Rahim b Mashrafe Mortaza,114,147
+463,452,2012-03-18 00:00:00,Pakistan,c Younis Khan b Saeed Ajmal,52,48
